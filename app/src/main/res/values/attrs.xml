@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--圆形文字-->
+    <declare-styleable name="CircleBackgroundImageView">
+        <!--边框颜色-->
+        <attr name="frameColor" format="color|reference"/>
+        <!--圆颜色-->
+        <attr name="circleColor" format="color|reference"/>
+        <!--边框粗细-->
+        <attr name="strokeWidth" format="dimension"/>
+        <!--是否有边框-->
+        <attr name="hasFrame" format="boolean"/>
+    </declare-styleable>
+</resources>

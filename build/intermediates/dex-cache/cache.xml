@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\github-source\yso-IOSParallelView-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\github-source\yso-IOSParallelView-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_6a272c52a3cabf13fde3e2b54c1cba5566e619a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JavaIDE\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\github-source\yso-IOSParallelView-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_dff2f4395ebd17fd7510774d1bd90b5b51f24aec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\yso-IOSParallelView-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\github-source\yso-IOSParallelView-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_ffdc672567d607fd18d8ba79471c191a39e5f828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\yso-IOSParallelView-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\github-source\yso-IOSParallelView-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_774e29b9ec2865a5b6c509419ee77e4ef7af1177.jar" />
+    </item>
+
+</items>

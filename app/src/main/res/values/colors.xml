@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white_alpha_light">#20fafafa</color>
+    <color name="white_alpha">#dffafafa</color>
+    <color name="white">#ffffff</color>
+    <color name="white_dark">#f6f6f6</color>
+
+    <color name="gray_alpha_light">#20999999</color>
+    <color name="gray_alpha">#dd999999</color>
+    <color name="gray_lightest">#f8f8f8</color>
+    <color name="gray_lighter">#f2f2f5</color>
+    <color name="gray_light">#d4d4d4</color>
+    <color name="gray">#cfcfd2</color>
+    <color name="gray_dark">#999999</color>
+    <color name="gray_darker">#666666</color>
+    <color name="gray_darkest">#555555</color>
+
+
+    <color name="black_alpha">#dd333333</color>
+    <color name="black_light">#383838</color>
+    <color name="black">#333333</color>
+    <color name="black_dark">#181818</color>
+
+    <color name="orange_alpha_light">#20fc6c26</color>
+    <color name="orange_alpha">#90fc6c26</color>
+    <color name="orange_lighter">#ffc0a1</color>
+    <color name="orange_light">#ff8f63</color>
+    <color name="orange">#fc6c26</color>
+    <color name="orange_dark">#fc4326</color>
+
+    <color name="pink_alpha">#78fc6c26</color>
+    <color name="pink">#f7e3e3</color>
+    <color name="pink_dark">#ec1e1e</color>
+
+    <color name="blue_light">#03a9f4</color>
+    <color name="blue">#0d85e9</color>
+    <color name="blue_dark">#157efb</color>
+    <color name="blue_darker">#5477a7</color>
+    <color name="blue_darkest">#2e5a7f</color>
+    <color name="green_blue">#08c73e</color>
+    <color name="green_lightest">#e3f8e3</color>
+    <color name="green_light">#19ca21</color>
+    <color name="green">#23b727</color>
+    <color name="green_dark">#7ab119</color>
+    <color name="green_darker">#18801b</color>
+    <color name="page_background">#f6f6f6</color>
+
+    <color name="yellow_light">#f2f2f2</color>
+    <color name="yellow">#ffd6a9</color>
+    <color name="yellow_darker">#ffbf4f</color>
+    <color name="purple_light">#d3d3e4</color>
+
+    <color name="color_gray">#ECECEC</color>
+</resources>
